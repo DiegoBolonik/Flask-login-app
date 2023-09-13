@@ -12,4 +12,4 @@ Para instalação dos módulos necessários, de acordo com requeriments.txt. Faz
 executar: /n
 $ pip install -r requeriments.txt no seu shell. 
 Por fim o comando para execução da aplicação: 
-$ flask ru
+$ flask run
