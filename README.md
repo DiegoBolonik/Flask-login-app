@@ -9,7 +9,7 @@ $ python3 -m venv auth $ source auth/bin/activate
 Os comandos para definição das variáveis de ambiente são: 
 $ export FLASK_APP=project $ export FLASK_DEBUG=1 
 Para instalação dos módulos necessários, de acordo com requeriments.txt. Fazer um cd para o diretório aonde requirements.txt está localizado, e
-executar: 
-$ pip install -r requirements.txt no seu shell. 
+executar: /n
+$ pip install -r requeriments.txt no seu shell. 
 Por fim o comando para execução da aplicação: 
 $ flask ru
